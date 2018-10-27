@@ -1,2 +1,2 @@
 from golang
-run sleep 10
+run sleep 1
